@@ -1,0 +1,391 @@
+[
+    {
+        "id": "airbnb",
+        "name": "Airbnb",
+        "url": "https://www.airbnb.com"
+    },
+    {
+        "id": "amazon-prime-video",
+        "name": "Amazon Prime Video",
+        "url": "https://app.primevideo.com/"
+    },
+    {
+        "id": "amazon-shopping",
+        "name": "Amazon Shopping",
+        "url": "https://www.amazon.com"
+    },
+    {
+        "id": "app-store",
+        "name": "App Store",
+        "url": "itms-apps://itunes.apple.com",
+        "isFirstParty": true
+    },
+    {
+        "id": "apple-music",
+        "name": "Apple Music",
+        "url": "music://",
+        "isFirstParty": true
+    },
+    {
+        "id": "apple-music-classical",
+        "name": "Apple Music Classical",
+        "url": "classical://",
+        "isFirstParty": true
+    },
+    {
+        "id": "apple-news",
+        "name": "Apple News",
+        "url": "applenews://",
+        "isFirstParty": true
+    },
+    {
+        "id": "apple-tv",
+        "name": "Apple TV",
+        "url": "videos://",
+        "isFirstParty": true
+    },
+    {
+        "id": "apple-books",
+        "name": "Books",
+        "url": "ibooks://",
+        "isFirstParty": true
+    },
+    {
+        "id": "apple-calculator",
+        "name": "Calculator",
+        "url": "shortcuts://x-callback-url/run-shortcut?x-error=calc://",
+        "isFirstParty": true
+    },
+    {
+        "id": "apple-calendar",
+        "name": "Calendar",
+        "url": "calshow://",
+        "isFirstParty": true
+    },
+    {
+        "id": "apple-camera",
+        "name": "Camera",
+        "url": "shortcuts://x-callback-url/run-shortcut?x-error=camera://",
+        "isFirstParty": true
+    },
+    {
+        "id": "candy-crush",
+        "name": "Candy Crush Saga",
+        "url": "candycrushsaga://"
+    },
+    {
+        "id": "cash-app",
+        "name": "Cash App",
+        "url": "https://cash.app/launch/"
+    },
+    {
+        "id": "apple-clips",
+        "name": "Clips",
+        "url": "clips://",
+        "isFirstParty": true
+    },
+    {
+        "id": "apple-clock",
+        "name": "Clock",
+        "url": "shortcuts://x-callback-url/run-shortcut?x-error=clock-timer://",
+        "isFirstParty": true
+    },
+    {
+        "id": "apple-contacts",
+        "name": "Contacts",
+        "url": "shortcuts://x-callback-url/run-shortcut?x-error=contact://",
+        "isFirstParty": true
+    },
+    {
+        "id": "discord",
+        "name": "Discord",
+        "url": "https://discord.gg/"
+    },
+    {
+        "id": "disney-plus",
+        "name": "Disney Plus",
+        "url": "https://www.disneyplus.com/"
+    },
+    {
+        "id": "doordash",
+        "name": "DoorDash",
+        "url": "https://www.doordash.com/"
+    },
+    {
+        "id": "dropbox",
+        "name": "Dropbox",
+        "url": "dbapi-1://"
+    },
+    {
+        "id": "duolingo",
+        "name": "Duolingo",
+        "url": "https://duolingo.com"
+    },
+    {
+        "id": "facebook",
+        "name": "Facebook",
+        "url": "https://facebook.com"
+    },
+    {
+        "id": "facebook-messenger",
+        "name": "Facebook Messenger",
+        "url": "fb-messenger://"
+    },
+    {
+        "id": "apple-files",
+        "name": "Files",
+        "url": "shareddocuments://",
+        "isFirstParty": true
+    },
+    {
+        "id": "apple-find-my",
+        "name": "Find My",
+        "url": "findmyfriends://",
+        "isFirstParty": true
+    },
+    {
+        "id": "fitbit",
+        "name": "Fitbit",
+        "url": "fitbit://"
+    },
+    {
+        "id": "apple-garageband",
+        "name": "GarageBand",
+        "url": "garageband://",
+        "isFirstParty": true
+    },
+    {
+        "id": "gmail",
+        "name": "Gmail",
+        "url": "googlegmail://"
+    },
+    {
+        "id": "google-calendar",
+        "name": "Google Calendar",
+        "url": "googlecalendar://"
+    },
+    {
+        "id": "google-chrome",
+        "name": "Google Chrome",
+        "url": "googlechrome://"
+    },
+    {
+        "id": "google-drive",
+        "name": "Google Drive",
+        "url": "googledrive://"
+    },
+    {
+        "id": "google-maps",
+        "name": "Google Maps",
+        "url": "https://maps.google.com/"
+    },
+    {
+        "id": "google-photos",
+        "name": "Google Photos",
+        "url": "googlephotos://"
+    },
+    {
+        "id": "instagram",
+        "name": "Instagram",
+        "url": "https://instagram.com/"
+    },
+    {
+        "id": "apple-imovie",
+        "name": "iMovie",
+        "url": "imovie://",
+        "isFirstParty": true
+    },
+    {
+        "id": "apple-itunes-remote",
+        "name": "iTunes Remote",
+        "url": "remote://",
+        "isFirstParty": true
+    },
+    {
+        "id": "apple-itunes-store",
+        "name": "iTunes Store",
+        "url": "itms://",
+        "isFirstParty": true
+    },
+    {
+        "id": "linkedin",
+        "name": "LinkedIn",
+        "url": "https://linkedin.com"
+    },
+    {
+        "id": "apple-mail",
+        "name": "Mail",
+        "url": "message://",
+        "isFirstParty": true
+    },
+    {
+        "id": "apple-maps",
+        "name": "Maps",
+        "url": "maps://",
+        "isFirstParty": true
+    },
+    {
+        "id": "apple-messages",
+        "name": "Messages",
+        "url": "messages://",
+        "isFirstParty": true
+    },
+    {
+        "id": "netflix",
+        "name": "Netflix",
+        "url": "nflx://"
+    },
+    {
+        "id": "apple-notes",
+        "name": "Notes",
+        "url": "mobilenotes://",
+        "isFirstParty": true
+    },
+    {
+        "id": "apple-phone",
+        "name": "Phone",
+        "url": "shortcuts://x-callback-url/run-shortcut?x-error=mobilephone://",
+        "isFirstParty": true
+    },
+    {
+        "id": "apple-photos",
+        "name": "Photos",
+        "url": "photos-redirect://",
+        "isFirstParty": true
+    },
+    {
+        "id": "pinterest",
+        "name": "Pinterest",
+        "url": "https://pinterest.com/"
+    },
+    {
+        "id": "apple-podcasts",
+        "name": "Podcasts",
+        "url": "podcasts://",
+        "isFirstParty": true
+    },
+    {
+        "id": "reddit",
+        "name": "Reddit",
+        "url": "https://www.reddit.com/"
+    },
+    {
+        "id": "apple-reminders",
+        "name": "Reminders",
+        "url": "x-apple-reminderkit://",
+        "isFirstParty": true
+    },
+    {
+        "id": "apple-safari",
+        "name": "Safari",
+        "url": "x-web-search://",
+        "isFirstParty": true
+    },
+    {
+        "id": "apple-settings",
+        "name": "Settings",
+        "url": "app-prefs://",
+        "isFirstParty": true
+    },
+    {
+        "id": "shazam",
+        "name": "Shazam",
+        "url": "shazam://"
+    },
+    {
+        "id": "apple-shortcuts",
+        "name": "Shortcuts",
+        "url": "shortcuts://",
+        "isFirstParty": true
+    },
+    {
+        "id": "snapchat",
+        "name": "Snapchat",
+        "url": "snapchat://"
+    },
+    {
+        "id": "spotify",
+        "name": "Spotify",
+        "url": "https://open.spotify.com/home"
+    },
+    {
+        "id": "tiktok",
+        "name": "TikTok",
+        "url": "https://www.tiktok.com/"
+    },
+    {
+        "id": "telegram",
+        "name": "Telegram",
+        "url": "tg://"
+    },
+    {
+        "id": "apple-translate",
+        "name": "Translate",
+        "url": "shortcuts://x-callback-url/run-shortcut?x-error=translate://",
+        "isFirstParty": true
+    },
+    {
+        "id": "uber",
+        "name": "Uber",
+        "url": "https://m.uber.com/looking"
+    },
+    {
+        "id": "uber-eats",
+        "name": "Uber Eats",
+        "url": "https://www.ubereats.com/brand/"
+    },
+    {
+        "id": "venmo",
+        "name": "Venmo",
+        "url": "https://venmo.com/u/"
+    },
+    {
+        "id": "apple-voice-memos",
+        "name": "Voice Memos",
+        "url": "shortcuts://x-callback-url/run-shortcut?x-error=voicememos://",
+        "isFirstParty": true
+    },
+    {
+        "id": "apple-wallet",
+        "name": "Wallet",
+        "url": "shoebox://",
+        "isFirstParty": true
+    },
+    {
+        "id": "apple-watch",
+        "name": "Watch",
+        "url": "itms-watchs://",
+        "isFirstParty": true
+    },
+    {
+        "id": "waze",
+        "name": "Waze",
+        "url": "https://waze.com/ul"
+    },
+    {
+        "id": "apple-weather",
+        "name": "Weather",
+        "url": "weather://",
+        "isFirstParty": true
+    },
+    {
+        "id": "whatsapp",
+        "name": "WhatsApp",
+        "url": "https://www.whatsapp.com/privacy/disclosure"
+    },
+    {
+        "id": "x",
+        "name": "X",
+        "url": "https://x.com"
+    },
+    {
+        "id": "youtube",
+        "name": "YouTube",
+        "url": "https://www.youtube.com/"
+    },
+    {
+        "id": "zoom",
+        "name": "Zoom",
+        "url": "https://zoom.us/router?page=phone"
+    }
+]
