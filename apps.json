@@ -284,7 +284,8 @@
     {
         "id": "apple-settings",
         "name": "Settings",
-        "url": "prefs://"
+        "url": "prefs://",
+        "isFirstParty": true
     },
     {
         "id": "shazam",
