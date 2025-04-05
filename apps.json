@@ -284,7 +284,7 @@
     {
         "id": "apple-settings",
         "name": "Settings",
-        "url": "app-prefs://",
+        "url": "prefs://",
         "isFirstParty": true
     },
     {
