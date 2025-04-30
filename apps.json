@@ -97,6 +97,11 @@
         "isFirstParty": true
     },
     {
+        "id": "chatgpt",
+        "name": "ChatGPT",
+        "url": "chatgpt://"
+    },
+    {
         "id": "discord",
         "name": "Discord",
         "url": "https://discord.gg/"
