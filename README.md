@@ -1,7 +1,9 @@
 # AppList Catalog.
 
 This repository is an open-source collection of popular iOS apps with known Universal Links & URL Schemes.
-The list is directly used by AppList, (yet-another) minimalist app launcher for iPhone.
+
+The list is directly used by AppList, a FREE minimalist app launcher for iPhone:
+- https://getapplist.app
 
 # Contributing
 
