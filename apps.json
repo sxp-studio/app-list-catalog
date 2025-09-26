@@ -232,7 +232,7 @@
     {
         "id": "apple-messages",
         "name": "Messages",
-        "url": "messages://",
+        "url": "iChat://",
         "isFirstParty": true
     },
     {
