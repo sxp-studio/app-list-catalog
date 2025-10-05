@@ -2,7 +2,7 @@
 
 This repository is an open-source collection of popular iOS apps with known Universal Links & URL Schemes.
 
-The list is directly used by AppList, a FREE minimalist app launcher for iPhone:
+The list is directly used by AppList, a FREE minimalist app launcher for iPhone that also respects your privacy (no tracking, no ads):
 - https://getapplist.app
 
 <img src="./app-list.jpg" alt="AppList. Screenshot" width="320" />
