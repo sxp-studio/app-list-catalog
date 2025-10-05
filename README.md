@@ -5,7 +5,7 @@ This repository is an open-source collection of popular iOS apps with known Univ
 The list is directly used by AppList, a FREE minimalist app launcher for iPhone:
 - https://getapplist.app
 
-<img src="./app-list.jpg" alt="AppList. Screenshot" width="500" />
+<img src="./app-list.jpg" alt="AppList. Screenshot" width="320" />
 
 # Contributing
 
