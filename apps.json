@@ -232,7 +232,7 @@
     {
         "id": "apple-messages",
         "name": "Messages",
-        "url": "iChat://",
+        "url": "shortcuts://x-callback-url/run-shortcut?x-error=iChat://",
         "isFirstParty": true
     },
     {
