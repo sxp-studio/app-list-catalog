@@ -252,6 +252,11 @@
         "isFirstParty": true
     },
     {
+        "id": "ms-outlook",
+        "name":"Outlook",
+        "url":"ms-outlook://"
+    },
+    {
         "id": "apple-phone",
         "name": "Phone",
         "url": "shortcuts://x-callback-url/run-shortcut?x-error=mobilephone://",
