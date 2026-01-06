@@ -304,6 +304,11 @@
         "isFirstParty": true
     },
     {
+        "id":"slack",
+        "name":"Slack",
+        "url":"slack://"
+    },
+    {
         "id": "snapchat",
         "name": "Snapchat",
         "url": "snapchat://"
