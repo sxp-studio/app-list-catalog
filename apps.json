@@ -137,6 +137,11 @@
         "url": "fb-messenger://"
     },
     {
+        "id":"fantastical",
+        "name":"Fantastical",
+        "url":"fantastical://"
+    },
+    {
         "id": "apple-files",
         "name": "Files",
         "url": "shareddocuments://",
