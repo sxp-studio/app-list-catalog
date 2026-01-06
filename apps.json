@@ -137,6 +137,11 @@
         "url": "fb-messenger://"
     },
     {
+        "id":"fantastical",
+        "name":"Fantastical",
+        "url":"fantastical://"
+    },
+    {
         "id": "apple-files",
         "name": "Files",
         "url": "shareddocuments://",
@@ -247,6 +252,11 @@
         "isFirstParty": true
     },
     {
+        "id": "ms-outlook",
+        "name":"Outlook",
+        "url":"ms-outlook://"
+    },
+    {
         "id": "apple-phone",
         "name": "Phone",
         "url": "shortcuts://x-callback-url/run-shortcut?x-error=mobilephone://",
@@ -302,6 +312,11 @@
         "name": "Shortcuts",
         "url": "shortcuts://",
         "isFirstParty": true
+    },
+    {
+        "id":"slack",
+        "name":"Slack",
+        "url":"slack://"
     },
     {
         "id": "snapchat",
