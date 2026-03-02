@@ -190,6 +190,11 @@
         "url": "googlephotos://"
     },
     {
+        "id": "google-authenticator",
+        "name": "Authenticator",
+        "url": "googleauthenticator://"
+    },
+    {
         "id": "instagram",
         "name": "Instagram",
         "url": "https://instagram.com/"
