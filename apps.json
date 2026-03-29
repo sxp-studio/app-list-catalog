@@ -1,8 +1,18 @@
 [
     {
+        "id": "abema",
+        "name": "ABEMA",
+        "url": "https://abema.tv/"
+    },
+    {
         "id": "airbnb",
         "name": "Airbnb",
         "url": "https://www.airbnb.com"
+    },
+    {
+        "id": "alipay",
+        "name": "Alipay",
+        "url": "alipay://"
     },
     {
         "id": "amazon-prime-video",
@@ -45,10 +55,60 @@
         "isFirstParty": true
     },
     {
+        "id": "ard-mediathek",
+        "name": "ARD Mediathek",
+        "url": "https://www.ardmediathek.de/"
+    },
+    {
+        "id": "back-market",
+        "name": "Back Market",
+        "url": "https://www.backmarket.fr/fr-fr/"
+    },
+    {
+        "id": "baemin",
+        "name": "Baemin",
+        "url": "https://www.baemin.com/shopDetail"
+    },
+    {
+        "id": "baidu",
+        "name": "Baidu",
+        "url": "baiduboxapp://"
+    },
+    {
+        "id": "banca-sella",
+        "name": "Banca Sella",
+        "url": "https://www.sella.it/mybank"
+    },
+    {
+        "id": "banco-do-brasil",
+        "name": "Banco do Brasil",
+        "url": "https://www.bb.com.br/pagaroureceber/"
+    },
+    {
+        "id": "bilibili",
+        "name": "Bilibili",
+        "url": "https://www.bilibili.com/"
+    },
+    {
+        "id": "blablacar",
+        "name": "BlaBlaCar",
+        "url": "https://www.blablacar.fr"
+    },
+    {
         "id": "apple-books",
         "name": "Books",
         "url": "ibooks://",
         "isFirstParty": true
+    },
+    {
+        "id": "bradesco",
+        "name": "Bradesco",
+        "url": "https://www.bradesco.com.br/app_redirect/"
+    },
+    {
+        "id": "bvg",
+        "name": "BVG Fahrinfo",
+        "url": "https://www.bvg.de/de/Tickets/Mobil"
     },
     {
         "id": "apple-calculator",
@@ -74,9 +134,29 @@
         "url": "candycrushsaga://"
     },
     {
+        "id": "carrefour",
+        "name": "Carrefour",
+        "url": "https://www.carrefour.fr/"
+    },
+    {
         "id": "cash-app",
         "name": "Cash App",
         "url": "https://cash.app/launch/"
+    },
+    {
+        "id": "chatgpt",
+        "name": "ChatGPT",
+        "url": "chatgpt://"
+    },
+    {
+        "id": "check24",
+        "name": "Check24",
+        "url": "https://www.check24.de/"
+    },
+    {
+        "id": "citymapper",
+        "name": "Citymapper",
+        "url": "https://citymapper.com"
     },
     {
         "id": "apple-clips",
@@ -97,9 +177,34 @@
         "isFirstParty": true
     },
     {
-        "id": "chatgpt",
-        "name": "ChatGPT",
-        "url": "chatgpt://"
+        "id": "cookpad",
+        "name": "Cookpad",
+        "url": "https://cookpad.com/"
+    },
+    {
+        "id": "coupang",
+        "name": "Coupang",
+        "url": "https://link.coupang.com/re/"
+    },
+    {
+        "id": "db-navigator",
+        "name": "DB Navigator",
+        "url": "dbnavigator://"
+    },
+    {
+        "id": "deliveroo",
+        "name": "Deliveroo",
+        "url": "https://deliveroo.fr"
+    },
+    {
+        "id": "dianping",
+        "name": "Dianping",
+        "url": "dianping://"
+    },
+    {
+        "id": "didi",
+        "name": "DiDi",
+        "url": "https://page.udache.com/np/"
     },
     {
         "id": "discord",
@@ -112,9 +217,19 @@
         "url": "https://www.disneyplus.com/"
     },
     {
+        "id": "doctolib",
+        "name": "Doctolib",
+        "url": "https://www.doctolib.fr"
+    },
+    {
         "id": "doordash",
         "name": "DoorDash",
         "url": "https://www.doordash.com/"
+    },
+    {
+        "id": "douyin",
+        "name": "Douyin",
+        "url": "https://www.douyin.com/"
     },
     {
         "id": "dropbox",
@@ -125,6 +240,11 @@
         "id": "duolingo",
         "name": "Duolingo",
         "url": "https://duolingo.com"
+    },
+    {
+        "id": "eleme",
+        "name": "Ele.me",
+        "url": "https://www.ele.me/invoke/"
     },
     {
         "id": "facebook",
@@ -154,10 +274,30 @@
         "url": "fitbit://"
     },
     {
+        "id": "flixbus",
+        "name": "FlixBus",
+        "url": "https://www.flixbus.de/"
+    },
+    {
+        "id": "amap",
+        "name": "Gaode Maps",
+        "url": "https://m.amap.com/applink/"
+    },
+    {
         "id": "apple-garageband",
         "name": "GarageBand",
         "url": "garageband://",
         "isFirstParty": true
+    },
+    {
+        "id": "globoplay",
+        "name": "Globoplay",
+        "url": "https://globoplay.globo.com"
+    },
+    {
+        "id": "glovo",
+        "name": "Glovo",
+        "url": "https://glovoapp.com"
     },
     {
         "id": "gmail",
@@ -190,15 +330,50 @@
         "url": "googlephotos://"
     },
     {
-        "id": "instagram",
-        "name": "Instagram",
-        "url": "https://instagram.com/"
+        "id": "ifood",
+        "name": "iFood",
+        "url": "https://www.ifood.com.br"
+    },
+    {
+        "id": "il-meteo",
+        "name": "Il Meteo",
+        "url": "https://www.ilmeteo.it/meteo/"
+    },
+    {
+        "id": "immobiliare-it",
+        "name": "Immobiliare.it",
+        "url": "https://www.immobiliare.it"
+    },
+    {
+        "id": "immobilienscout24",
+        "name": "ImmobilienScout24",
+        "url": "https://www.immobilienscout24.de/"
     },
     {
         "id": "apple-imovie",
         "name": "iMovie",
         "url": "imovie://",
         "isFirstParty": true
+    },
+    {
+        "id": "instagram",
+        "name": "Instagram",
+        "url": "https://instagram.com/"
+    },
+    {
+        "id": "inter",
+        "name": "Inter",
+        "url": "https://inter.co"
+    },
+    {
+        "id": "io-italia",
+        "name": "IO",
+        "url": "ioit://"
+    },
+    {
+        "id": "iqiyi",
+        "name": "iQIYI",
+        "url": "https://www.iqiyi.com/"
     },
     {
         "id": "apple-itunes-remote",
@@ -213,9 +388,84 @@
         "isFirstParty": true
     },
     {
+        "id": "jd",
+        "name": "JD.com",
+        "url": "openapp.jdmobile://"
+    },
+    {
+        "id": "just-eat-it",
+        "name": "Just Eat Italia",
+        "url": "https://www.justeat.it"
+    },
+    {
+        "id": "kakaomap",
+        "name": "KakaoMap",
+        "url": "https://map.kakao.com/"
+    },
+    {
+        "id": "kakaotalk",
+        "name": "KakaoTalk",
+        "url": "kakaotalk://"
+    },
+    {
+        "id": "karrot",
+        "name": "Karrot",
+        "url": "https://www.daangn.com/articles/"
+    },
+    {
+        "id": "kb-star-banking",
+        "name": "KB Star Banking",
+        "url": "https://obank.kbstar.com/kbapplink"
+    },
+    {
+        "id": "kleinanzeigen",
+        "name": "Kleinanzeigen",
+        "url": "https://www.kleinanzeigen.de/"
+    },
+    {
+        "id": "komoot",
+        "name": "Komoot",
+        "url": "https://www.komoot.com/"
+    },
+    {
+        "id": "kuaishou",
+        "name": "Kuaishou",
+        "url": "https://c.kuaishou.com/app/"
+    },
+    {
+        "id": "kwai",
+        "name": "Kwai",
+        "url": "https://kwai-video.com/p/"
+    },
+    {
+        "id": "leboncoin",
+        "name": "Leboncoin",
+        "url": "https://www.leboncoin.fr"
+    },
+    {
+        "id": "lieferando",
+        "name": "Lieferando",
+        "url": "https://www.lieferando.de/"
+    },
+    {
+        "id": "line",
+        "name": "LINE",
+        "url": "https://line.me/R/"
+    },
+    {
         "id": "linkedin",
         "name": "LinkedIn",
         "url": "https://linkedin.com"
+    },
+    {
+        "id": "lydia",
+        "name": "Lydia",
+        "url": "https://lydia-app.com"
+    },
+    {
+        "id": "magazine-luiza",
+        "name": "Magazine Luiza",
+        "url": "https://www.magazineluiza.com.br"
     },
     {
         "id": "apple-mail",
@@ -230,10 +480,80 @@
         "isFirstParty": true
     },
     {
+        "id": "mediaset-infinity",
+        "name": "Mediaset Infinity",
+        "url": "https://mediasetinfinity.mediaset.it"
+    },
+    {
+        "id": "meituan",
+        "name": "Meituan",
+        "url": "https://www.meituan.com/web"
+    },
+    {
+        "id": "melon",
+        "name": "Melon",
+        "url": "https://m.melon.com/link/"
+    },
+    {
+        "id": "mercado-livre",
+        "name": "Mercado Livre",
+        "url": "https://www.mercadolivre.com.br"
+    },
+    {
+        "id": "mercari",
+        "name": "Mercari",
+        "url": "https://www.mercari.com/jp/"
+    },
+    {
         "id": "apple-messages",
         "name": "Messages",
         "url": "shortcuts://x-callback-url/run-shortcut?x-error=iChat://",
         "isFirstParty": true
+    },
+    {
+        "id": "molotov",
+        "name": "Molotov",
+        "url": "molotov://"
+    },
+    {
+        "id": "moneyforward",
+        "name": "MoneyForward ME",
+        "url": "moneyforward://"
+    },
+    {
+        "id": "musinsa",
+        "name": "Musinsa",
+        "url": "https://link.musinsa.com/"
+    },
+    {
+        "id": "mycanal",
+        "name": "MyCanal",
+        "url": "https://www.canalplus.com"
+    },
+    {
+        "id": "mydealz",
+        "name": "Mydealz",
+        "url": "https://www.mydealz.de/"
+    },
+    {
+        "id": "n26",
+        "name": "N26",
+        "url": "https://app.n26.com/wl/"
+    },
+    {
+        "id": "naver",
+        "name": "Naver",
+        "url": "naversearchapp://"
+    },
+    {
+        "id": "naver-map",
+        "name": "Naver Map",
+        "url": "https://m.map.naver.com/launchApp/"
+    },
+    {
+        "id": "netease-music",
+        "name": "NetEase Cloud Music",
+        "url": "https://music.163.com/m/applink"
     },
     {
         "id": "netflix",
@@ -245,6 +565,26 @@
         "name": "Notes",
         "url": "mobilenotes://",
         "isFirstParty": true
+    },
+    {
+        "id": "nubank",
+        "name": "Nubank",
+        "url": "https://nubank.com.br"
+    },
+    {
+        "id": "olx-brasil",
+        "name": "OLX Brasil",
+        "url": "https://olx.com.br"
+    },
+    {
+        "id": "otto",
+        "name": "Otto",
+        "url": "https://www.otto.de/"
+    },
+    {
+        "id": "paypay",
+        "name": "PayPay",
+        "url": "https://paypay.ne.jp/"
     },
     {
         "id": "apple-phone",
@@ -259,6 +599,16 @@
         "isFirstParty": true
     },
     {
+        "id": "picpay",
+        "name": "PicPay",
+        "url": "https://app.picpay.com"
+    },
+    {
+        "id": "pinduoduo",
+        "name": "Pinduoduo",
+        "url": "pinduoduo://"
+    },
+    {
         "id": "pinterest",
         "name": "Pinterest",
         "url": "https://pinterest.com/"
@@ -268,6 +618,36 @@
         "name": "Podcasts",
         "url": "podcasts://",
         "isFirstParty": true
+    },
+    {
+        "id": "poste-italiane",
+        "name": "Poste Italiane",
+        "url": "https://www.poste.it"
+    },
+    {
+        "id": "qq",
+        "name": "QQ",
+        "url": "https://qm.qq.com/"
+    },
+    {
+        "id": "radiko",
+        "name": "Radiko",
+        "url": "https://radiko.jp/share/"
+    },
+    {
+        "id": "raiplay",
+        "name": "RaiPlay",
+        "url": "https://www.raiplay.it/"
+    },
+    {
+        "id": "rakuten",
+        "name": "Rakuten",
+        "url": "https://www.rakuten.co.jp/"
+    },
+    {
+        "id": "rappi",
+        "name": "Rappi",
+        "url": "https://www.rappi.com.br"
     },
     {
         "id": "reddit",
@@ -281,10 +661,20 @@
         "isFirstParty": true
     },
     {
+        "id": "retty",
+        "name": "Retty",
+        "url": "https://retty.me/"
+    },
+    {
         "id": "apple-safari",
         "name": "Safari",
         "url": "x-web-search://",
         "isFirstParty": true
+    },
+    {
+        "id": "satispay",
+        "name": "Satispay",
+        "url": "satispay://"
     },
     {
         "id": "apple-settings",
@@ -298,10 +688,20 @@
         "url": "shazam://"
     },
     {
+        "id": "shopee-brasil",
+        "name": "Shopee",
+        "url": "https://shopee.com.br"
+    },
+    {
         "id": "apple-shortcuts",
         "name": "Shortcuts",
         "url": "shortcuts://",
         "isFirstParty": true
+    },
+    {
+        "id": "smartnews",
+        "name": "SmartNews",
+        "url": "https://www.smartnews.com/p/"
     },
     {
         "id": "snapchat",
@@ -309,14 +709,39 @@
         "url": "snapchat://"
     },
     {
+        "id": "sncf-connect",
+        "name": "SNCF Connect",
+        "url": "https://www.sncf-connect.com"
+    },
+    {
+        "id": "sparkasse",
+        "name": "Sparkasse",
+        "url": "https://www.sparkasse.de/_deeplink/"
+    },
+    {
         "id": "spotify",
         "name": "Spotify",
         "url": "https://open.spotify.com/home"
     },
     {
-        "id": "tiktok",
-        "name": "TikTok",
-        "url": "https://www.tiktok.com/"
+        "id": "subito",
+        "name": "Subito",
+        "url": "https://www.subito.it/"
+    },
+    {
+        "id": "tabelog",
+        "name": "Tabelog",
+        "url": "https://tabelog.com/"
+    },
+    {
+        "id": "taobao",
+        "name": "Taobao",
+        "url": "taobao://"
+    },
+    {
+        "id": "taxfix",
+        "name": "Taxfix",
+        "url": "https://app.taxfix.de/dlink/"
     },
     {
         "id": "telegram",
@@ -324,10 +749,45 @@
         "url": "tg://"
     },
     {
+        "id": "thalia",
+        "name": "Thalia",
+        "url": "https://www.thalia.de/"
+    },
+    {
+        "id": "tiktok",
+        "name": "TikTok",
+        "url": "https://www.tiktok.com/"
+    },
+    {
+        "id": "too-good-to-go",
+        "name": "Too Good To Go",
+        "url": "https://share.toogoodtogo.com"
+    },
+    {
+        "id": "toss",
+        "name": "Toss",
+        "url": "https://toss.im/_ul/"
+    },
+    {
         "id": "apple-translate",
         "name": "Translate",
         "url": "shortcuts://x-callback-url/run-shortcut?x-error=translate://",
         "isFirstParty": true
+    },
+    {
+        "id": "trip-com",
+        "name": "Trip.com",
+        "url": "https://www.trip.com/"
+    },
+    {
+        "id": "tver",
+        "name": "TVer",
+        "url": "https://tver.jp/"
+    },
+    {
+        "id": "tving",
+        "name": "TVING",
+        "url": "https://www.tving.com/contents/"
     },
     {
         "id": "uber",
@@ -340,9 +800,19 @@
         "url": "https://www.ubereats.com/brand/"
     },
     {
+        "id": "uniqlo",
+        "name": "UNIQLO",
+        "url": "https://www.uniqlo.com/jp/ja/"
+    },
+    {
         "id": "venmo",
         "name": "Venmo",
         "url": "https://venmo.com/u/"
+    },
+    {
+        "id": "vinted",
+        "name": "Vinted",
+        "url": "https://www.vinted.fr"
     },
     {
         "id": "apple-voice-memos",
@@ -363,6 +833,11 @@
         "isFirstParty": true
     },
     {
+        "id": "watcha",
+        "name": "Watcha",
+        "url": "https://watcha.com/contents/"
+    },
+    {
         "id": "waze",
         "name": "Waze",
         "url": "https://waze.com/ul"
@@ -372,6 +847,11 @@
         "name": "Weather",
         "url": "weather://",
         "isFirstParty": true
+    },
+    {
+        "id": "wechat",
+        "name": "WeChat",
+        "url": "weixin://"
     },
     {
         "id": "whatsapp",
@@ -384,9 +864,44 @@
         "url": "https://x.com"
     },
     {
+        "id": "xiaohongshu",
+        "name": "Xiaohongshu",
+        "url": "https://www.xiaohongshu.com/discovery/item/"
+    },
+    {
+        "id": "yahoo-japan",
+        "name": "Yahoo! JAPAN",
+        "url": "yjlogin://"
+    },
+    {
+        "id": "yogiyo",
+        "name": "Yogiyo",
+        "url": "https://www.yogiyo.co.kr/mobile/"
+    },
+    {
+        "id": "youku",
+        "name": "Youku",
+        "url": "https://www.youku.com/"
+    },
+    {
         "id": "youtube",
         "name": "YouTube",
         "url": "https://www.youtube.com/"
+    },
+    {
+        "id": "yuka",
+        "name": "Yuka",
+        "url": "yuka://"
+    },
+    {
+        "id": "zalando",
+        "name": "Zalando",
+        "url": "zalando://"
+    },
+    {
+        "id": "zdf-mediathek",
+        "name": "ZDF Mediathek",
+        "url": "https://www.zdf.de/"
     },
     {
         "id": "zoom",
