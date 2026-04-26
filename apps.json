@@ -310,6 +310,11 @@
         "url": "googlegmail://"
     },
     {
+        "id": "google-authenticator",
+        "name": "Google Authenticator",
+        "url": "googleauthenticator://"
+    },
+    {
         "id": "google-calendar",
         "name": "Google Calendar",
         "url": "googlecalendar://"
