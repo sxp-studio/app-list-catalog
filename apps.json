@@ -257,6 +257,11 @@
         "url": "fb-messenger://"
     },
     {
+        "id": "fantastical",
+        "name": "Fantastical",
+        "url": "x-fantastical3://"
+    },
+    {
         "id": "apple-files",
         "name": "Files",
         "url": "shareddocuments://",
@@ -582,6 +587,11 @@
         "url": "https://www.otto.de/"
     },
     {
+        "id": "ms-outlook",
+        "name": "Outlook",
+        "url": "ms-outlook://"
+    },
+    {
         "id": "paypay",
         "name": "PayPay",
         "url": "https://paypay.ne.jp/"
@@ -697,6 +707,11 @@
         "name": "Shortcuts",
         "url": "shortcuts://",
         "isFirstParty": true
+    },
+    {
+        "id": "slack",
+        "name": "Slack",
+        "url": "slack://"
     },
     {
         "id": "smartnews",
