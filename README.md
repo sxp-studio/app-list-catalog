@@ -21,6 +21,12 @@ Nice to have (but accelerate the approval):
 
 Once approved and merged, all you will need to do is restart your app for it to pick up the latest version.
 
+## Bundle identifiers
+
+The optional `bundleID` field identifies the iOS app itself. Preserve capitalization and use the identifier for the same regional app as the catalog URL. The catalog's `id` is a separate, stable key used by saved AppList selections.
+
+For App Store apps, look up the numeric ID from the listing in its storefront and copy the returned `bundleId`. For built-in apps, Apple publishes the identifiers directly. [Example App Store lookup](https://itunes.apple.com/lookup?id=335948517&country=it) · [Apple’s list of iPhone and iPad bundle IDs](https://support.apple.com/guide/deployment/depece748c41/web)
+
 # Special Cases
 
 Below is a *non-exhaustive* list of apps purposedly not included in the official list:

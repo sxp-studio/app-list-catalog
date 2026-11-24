@@ -1,930 +1,1109 @@
 [
     {
         "id": "abema",
+        "bundleID": "tv.abema.AbemaTV",
         "name": "ABEMA",
         "url": "https://abema.tv/"
     },
     {
         "id": "airbnb",
+        "bundleID": "com.airbnb.app",
         "name": "Airbnb",
         "url": "https://www.airbnb.com"
     },
     {
         "id": "alipay",
+        "bundleID": "com.alipay.iphoneclient",
         "name": "Alipay",
         "url": "alipay://"
     },
     {
         "id": "amazon-prime-video",
+        "bundleID": "com.amazon.aiv.AIVApp",
         "name": "Amazon Prime Video",
         "url": "https://app.primevideo.com/"
     },
     {
         "id": "amazon-shopping",
+        "bundleID": "com.amazon.Amazon",
         "name": "Amazon Shopping",
         "url": "https://www.amazon.com"
     },
     {
         "id": "app-store",
+        "bundleID": "com.apple.AppStore",
         "name": "App Store",
         "url": "itms-apps://itunes.apple.com",
         "isFirstParty": true
     },
     {
         "id": "apple-music",
+        "bundleID": "com.apple.Music",
         "name": "Apple Music",
         "url": "music://",
         "isFirstParty": true
     },
     {
         "id": "apple-music-classical",
+        "bundleID": "com.apple.music.classical",
         "name": "Apple Music Classical",
         "url": "classical://",
         "isFirstParty": true
     },
     {
         "id": "apple-news",
+        "bundleID": "com.apple.news",
         "name": "Apple News",
         "url": "applenews://",
         "isFirstParty": true
     },
     {
         "id": "apple-tv",
+        "bundleID": "com.apple.tv",
         "name": "Apple TV",
         "url": "videos://",
         "isFirstParty": true
     },
     {
         "id": "ard-mediathek",
+        "bundleID": "de.swr.avp.ard.tablet",
         "name": "ARD Mediathek",
         "url": "https://www.ardmediathek.de/"
     },
     {
         "id": "back-market",
+        "bundleID": "com.backmarket",
         "name": "Back Market",
         "url": "https://www.backmarket.fr/fr-fr/"
     },
     {
         "id": "baemin",
+        "bundleID": "com.jawebs.baedal",
         "name": "Baemin",
         "url": "https://www.baemin.com/shopDetail"
     },
     {
         "id": "baidu",
+        "bundleID": "com.baidu.BaiduMobile",
         "name": "Baidu",
         "url": "baiduboxapp://"
     },
     {
         "id": "banca-sella",
+        "bundleID": "22J88L6NGX.banca.sella.it",
         "name": "Banca Sella",
         "url": "https://www.sella.it/mybank"
     },
     {
         "id": "banco-do-brasil",
+        "bundleID": "com.bb.bbapp",
         "name": "Banco do Brasil",
         "url": "https://www.bb.com.br/pagaroureceber/"
     },
     {
         "id": "bilibili",
+        "bundleID": "tv.danmaku.bilianime",
         "name": "Bilibili",
         "url": "https://www.bilibili.com/"
     },
     {
         "id": "blablacar",
+        "bundleID": "com.comuto.comuto",
         "name": "BlaBlaCar",
         "url": "https://www.blablacar.fr"
     },
     {
         "id": "apple-books",
+        "bundleID": "com.apple.iBooks",
         "name": "Books",
         "url": "ibooks://",
         "isFirstParty": true
     },
     {
         "id": "bradesco",
+        "bundleID": "br.com.bradescora.app",
         "name": "Bradesco",
         "url": "https://www.bradesco.com.br/app_redirect/"
     },
     {
         "id": "bvg",
+        "bundleID": "de.metaquark.vbbquery",
         "name": "BVG Fahrinfo",
         "url": "https://www.bvg.de/de/Tickets/Mobil"
     },
     {
         "id": "apple-calculator",
+        "bundleID": "com.apple.calculator",
         "name": "Calculator",
         "url": "shortcuts://x-callback-url/run-shortcut?x-error=calc://",
         "isFirstParty": true
     },
     {
         "id": "apple-calendar",
+        "bundleID": "com.apple.mobilecal",
         "name": "Calendar",
         "url": "calshow://",
         "isFirstParty": true
     },
     {
         "id": "apple-camera",
+        "bundleID": "com.apple.camera",
         "name": "Camera",
         "url": "shortcuts://x-callback-url/run-shortcut?x-error=camera://",
         "isFirstParty": true
     },
     {
         "id": "candy-crush",
+        "bundleID": "com.midasplayer.apps.candycrushsaga",
         "name": "Candy Crush Saga",
         "url": "candycrushsaga://"
     },
     {
         "id": "carrefour",
+        "bundleID": "com.carrefour.fid-iphone",
         "name": "Carrefour",
         "url": "https://www.carrefour.fr/"
     },
     {
         "id": "cash-app",
+        "bundleID": "com.squareup.cash",
         "name": "Cash App",
         "url": "https://cash.app/launch/"
     },
     {
         "id": "chatgpt",
+        "bundleID": "com.openai.chat",
         "name": "ChatGPT",
         "url": "chatgpt://"
     },
     {
         "id": "check24",
+        "bundleID": "de.check24.check24",
         "name": "Check24",
         "url": "https://www.check24.de/"
     },
     {
         "id": "citymapper",
+        "bundleID": "azdev.citymapper",
         "name": "Citymapper",
         "url": "https://citymapper.com"
     },
     {
         "id": "apple-clips",
+        "bundleID": "com.apple.clips",
         "name": "Clips",
         "url": "clips://",
         "isFirstParty": true
     },
     {
         "id": "apple-clock",
+        "bundleID": "com.apple.mobiletimer",
         "name": "Clock",
         "url": "shortcuts://x-callback-url/run-shortcut?x-error=clock-timer://",
         "isFirstParty": true
     },
     {
         "id": "apple-contacts",
+        "bundleID": "com.apple.MobileAddressBook",
         "name": "Contacts",
         "url": "shortcuts://x-callback-url/run-shortcut?x-error=contact://",
         "isFirstParty": true
     },
     {
         "id": "cookpad",
+        "bundleID": "com.cookpad",
         "name": "Cookpad",
         "url": "https://cookpad.com/"
     },
     {
         "id": "coupang",
+        "bundleID": "com.coupang.Coupang",
         "name": "Coupang",
         "url": "https://link.coupang.com/re/"
     },
     {
         "id": "db-navigator",
+        "bundleID": "com.deutschebahn.navigator",
         "name": "DB Navigator",
         "url": "dbnavigator://"
     },
     {
         "id": "deliveroo",
+        "bundleID": "com.deliveroo.orderapp",
         "name": "Deliveroo",
         "url": "https://deliveroo.fr"
     },
     {
         "id": "dianping",
+        "bundleID": "com.dianping.dpscope",
         "name": "Dianping",
         "url": "dianping://"
     },
     {
         "id": "didi",
+        "bundleID": "com.xiaojukeji.didi",
         "name": "DiDi",
         "url": "https://page.udache.com/np/"
     },
     {
         "id": "discord",
+        "bundleID": "com.hammerandchisel.discord",
         "name": "Discord",
         "url": "https://discord.gg/"
     },
     {
         "id": "disney-plus",
+        "bundleID": "com.disney.disneyplus",
         "name": "Disney Plus",
         "url": "https://www.disneyplus.com/"
     },
     {
         "id": "doctolib",
+        "bundleID": "fr.doctolib.www",
         "name": "Doctolib",
         "url": "https://www.doctolib.fr"
     },
     {
         "id": "doordash",
+        "bundleID": "doordash.DoorDashConsumer",
         "name": "DoorDash",
         "url": "https://www.doordash.com/"
     },
     {
         "id": "douyin",
+        "bundleID": "com.ss.iphone.ugc.Aweme",
         "name": "Douyin",
         "url": "https://www.douyin.com/"
     },
     {
         "id": "dropbox",
+        "bundleID": "com.getdropbox.Dropbox",
         "name": "Dropbox",
         "url": "dbapi-1://"
     },
     {
         "id": "duolingo",
+        "bundleID": "com.duolingo.DuolingoMobile",
         "name": "Duolingo",
         "url": "https://duolingo.com"
     },
     {
         "id": "eleme",
+        "bundleID": "me.ele.ios.eleme",
         "name": "Ele.me",
         "url": "https://www.ele.me/invoke/"
     },
     {
         "id": "facebook",
+        "bundleID": "com.facebook.Facebook",
         "name": "Facebook",
         "url": "https://facebook.com"
     },
     {
         "id": "facebook-messenger",
+        "bundleID": "com.facebook.Messenger",
         "name": "Facebook Messenger",
         "url": "fb-messenger://"
     },
     {
         "id": "fantastical",
+        "bundleID": "com.flexibits.fantastical2.iphone",
         "name": "Fantastical",
         "url": "x-fantastical3://"
     },
     {
         "id": "apple-files",
+        "bundleID": "com.apple.DocumentsApp",
         "name": "Files",
         "url": "shareddocuments://",
         "isFirstParty": true
     },
     {
         "id": "apple-find-my",
+        "bundleID": "com.apple.findmy",
         "name": "Find My",
         "url": "findmyfriends://",
         "isFirstParty": true
     },
     {
         "id": "fitbit",
+        "bundleID": "com.fitbit.FitbitMobile",
         "name": "Fitbit",
         "url": "fitbit://"
     },
     {
         "id": "flixbus",
+        "bundleID": "com.flixbus.ios.Flixbus",
         "name": "FlixBus",
         "url": "https://www.flixbus.de/"
     },
     {
         "id": "amap",
+        "bundleID": "com.autonavi.amap",
         "name": "Gaode Maps",
         "url": "https://m.amap.com/applink/"
     },
     {
         "id": "apple-garageband",
+        "bundleID": "com.apple.mobilegarageband",
         "name": "GarageBand",
         "url": "garageband://",
         "isFirstParty": true
     },
     {
         "id": "globoplay",
+        "bundleID": "com.globo.hydra",
         "name": "Globoplay",
         "url": "https://globoplay.globo.com"
     },
     {
         "id": "glovo",
+        "bundleID": "com.glovo.glovo",
         "name": "Glovo",
         "url": "https://glovoapp.com"
     },
     {
         "id": "gmail",
+        "bundleID": "com.google.Gmail",
         "name": "Gmail",
         "url": "googlegmail://"
     },
     {
         "id": "google-authenticator",
+        "bundleID": "com.google.Authenticator",
         "name": "Google Authenticator",
         "url": "googleauthenticator://"
     },
     {
         "id": "google-calendar",
+        "bundleID": "com.google.calendar",
         "name": "Google Calendar",
         "url": "googlecalendar://"
     },
     {
         "id": "google-chrome",
+        "bundleID": "com.google.chrome.ios",
         "name": "Google Chrome",
         "url": "googlechrome://"
     },
     {
         "id": "google-drive",
+        "bundleID": "com.google.Drive",
         "name": "Google Drive",
         "url": "googledrive://"
     },
     {
         "id": "google-maps",
+        "bundleID": "com.google.Maps",
         "name": "Google Maps",
         "url": "https://maps.google.com/"
     },
     {
         "id": "google-photos",
+        "bundleID": "com.google.photos",
         "name": "Google Photos",
         "url": "googlephotos://"
     },
     {
         "id": "ifood",
+        "bundleID": "br.com.brainweb.ifood",
         "name": "iFood",
         "url": "https://www.ifood.com.br"
     },
     {
         "id": "il-meteo",
+        "bundleID": "it.ilmeteo.meteo",
         "name": "Il Meteo",
         "url": "https://www.ilmeteo.it/meteo/"
     },
     {
         "id": "immobiliare-it",
+        "bundleID": "1000",
         "name": "Immobiliare.it",
         "url": "https://www.immobiliare.it"
     },
     {
         "id": "immobilienscout24",
+        "bundleID": "de.immoscout.immoscout",
         "name": "ImmobilienScout24",
         "url": "https://www.immobilienscout24.de/"
     },
     {
         "id": "apple-imovie",
+        "bundleID": "com.apple.iMovie",
         "name": "iMovie",
         "url": "imovie://",
         "isFirstParty": true
     },
     {
         "id": "instagram",
+        "bundleID": "com.burbn.instagram",
         "name": "Instagram",
         "url": "https://instagram.com/"
     },
     {
         "id": "inter",
+        "bundleID": "br.com.intermedium",
         "name": "Inter",
         "url": "https://inter.co"
     },
     {
         "id": "io-italia",
+        "bundleID": "it.pagopa.app.io",
         "name": "IO",
         "url": "ioit://"
     },
     {
         "id": "iqiyi",
+        "bundleID": "com.qiyi.iphone",
         "name": "iQIYI",
         "url": "https://www.iqiyi.com/"
     },
     {
         "id": "apple-itunes-remote",
+        "bundleID": "com.apple.Remote",
         "name": "iTunes Remote",
         "url": "remote://",
         "isFirstParty": true
     },
     {
         "id": "apple-itunes-store",
+        "bundleID": "com.apple.MobileStore",
         "name": "iTunes Store",
         "url": "itms://",
         "isFirstParty": true
     },
     {
         "id": "jd",
+        "bundleID": "com.360buy.jdmobile",
         "name": "JD.com",
         "url": "openapp.jdmobile://"
     },
     {
         "id": "just-eat-it",
+        "bundleID": "com.justeat.JUSTEAT",
         "name": "Just Eat Italia",
         "url": "https://www.justeat.it"
     },
     {
         "id": "kakaomap",
+        "bundleID": "net.daum.maps",
         "name": "KakaoMap",
         "url": "https://map.kakao.com/"
     },
     {
         "id": "kakaotalk",
+        "bundleID": "com.iwilab.KakaoTalk",
         "name": "KakaoTalk",
         "url": "kakaotalk://"
     },
     {
         "id": "karrot",
+        "bundleID": "com.towneers.www",
         "name": "Karrot",
         "url": "https://www.daangn.com/articles/"
     },
     {
         "id": "kb-star-banking",
+        "bundleID": "com.kbstar.kbbank",
         "name": "KB Star Banking",
         "url": "https://obank.kbstar.com/kbapplink"
     },
     {
         "id": "kleinanzeigen",
+        "bundleID": "com.ebaykleinanzeigen.ebc",
         "name": "Kleinanzeigen",
         "url": "https://www.kleinanzeigen.de/"
     },
     {
         "id": "komoot",
+        "bundleID": "de.komoot.berlinbikeapp",
         "name": "Komoot",
         "url": "https://www.komoot.com/"
     },
     {
         "id": "kuaishou",
+        "bundleID": "com.jiangjia.gif",
         "name": "Kuaishou",
         "url": "https://c.kuaishou.com/app/"
     },
     {
         "id": "kwai",
+        "bundleID": "com.kwai.intl",
         "name": "Kwai",
         "url": "https://kwai-video.com/p/"
     },
     {
         "id": "leboncoin",
+        "bundleID": "fr.leboncoin.Leboncoin",
         "name": "Leboncoin",
         "url": "https://www.leboncoin.fr"
     },
     {
         "id": "lieferando",
+        "bundleID": "com.yourdelivery.lieferando",
         "name": "Lieferando",
         "url": "https://www.lieferando.de/"
     },
     {
         "id": "line",
+        "bundleID": "jp.naver.line",
         "name": "LINE",
         "url": "https://line.me/R/"
     },
     {
         "id": "linkedin",
+        "bundleID": "com.linkedin.LinkedIn",
         "name": "LinkedIn",
         "url": "https://linkedin.com"
     },
     {
         "id": "lydia",
+        "bundleID": "com.lydia-app-social",
         "name": "Lydia",
         "url": "https://lydia-app.com"
     },
     {
         "id": "magazine-luiza",
+        "bundleID": "br.com.magazineluiza",
         "name": "Magazine Luiza",
         "url": "https://www.magazineluiza.com.br"
     },
     {
         "id": "apple-mail",
+        "bundleID": "com.apple.mobilemail",
         "name": "Mail",
         "url": "message://",
         "isFirstParty": true
     },
     {
         "id": "apple-maps",
+        "bundleID": "com.apple.Maps",
         "name": "Maps",
         "url": "maps://",
         "isFirstParty": true
     },
     {
         "id": "mediaset-infinity",
+        "bundleID": "it.mediaset.video.iphone",
         "name": "Mediaset Infinity",
         "url": "https://mediasetinfinity.mediaset.it"
     },
     {
         "id": "meituan",
+        "bundleID": "com.meituan.imeituan",
         "name": "Meituan",
         "url": "https://www.meituan.com/web"
     },
     {
         "id": "melon",
+        "bundleID": "com.iloen.iphonemelon",
         "name": "Melon",
         "url": "https://m.melon.com/link/"
     },
     {
         "id": "mercado-livre",
+        "bundleID": "com.3mosquitos.MercadoLibre",
         "name": "Mercado Livre",
         "url": "https://www.mercadolivre.com.br"
     },
     {
         "id": "mercari",
+        "bundleID": "com.kouzoh.ios.mercari",
         "name": "Mercari",
         "url": "https://www.mercari.com/jp/"
     },
     {
         "id": "apple-messages",
+        "bundleID": "com.apple.MobileSMS",
         "name": "Messages",
         "url": "shortcuts://x-callback-url/run-shortcut?x-error=iChat://",
         "isFirstParty": true
     },
     {
         "id": "molotov",
+        "bundleID": "tv.molotov.MolotovAppProd",
         "name": "Molotov",
         "url": "molotov://"
     },
     {
         "id": "moneyforward",
+        "bundleID": "com.moneyforward.moneyfwd",
         "name": "MoneyForward ME",
         "url": "moneyforward://"
     },
     {
         "id": "musinsa",
+        "bundleID": "com.grab.musinsa",
         "name": "Musinsa",
         "url": "https://link.musinsa.com/"
     },
     {
         "id": "mycanal",
+        "bundleID": "com.canalplusdistrib.mycanal.prod",
         "name": "MyCanal",
         "url": "https://www.canalplus.com"
     },
     {
         "id": "mydealz",
+        "bundleID": "com.6minutesmedia.mydealz",
         "name": "Mydealz",
         "url": "https://www.mydealz.de/"
     },
     {
         "id": "n26",
+        "bundleID": "de.no26.Number26",
         "name": "N26",
         "url": "https://app.n26.com/wl/"
     },
     {
         "id": "naver",
+        "bundleID": "com.nhncorp.NaverSearch",
         "name": "Naver",
         "url": "naversearchapp://"
     },
     {
         "id": "naver-map",
+        "bundleID": "com.nhncorp.NaverMap",
         "name": "Naver Map",
         "url": "https://m.map.naver.com/launchApp/"
     },
     {
         "id": "netease-music",
+        "bundleID": "com.netease.cloudmusic",
         "name": "NetEase Cloud Music",
         "url": "https://music.163.com/m/applink"
     },
     {
         "id": "netflix",
+        "bundleID": "com.netflix.Netflix",
         "name": "Netflix",
         "url": "nflx://"
     },
     {
         "id": "apple-notes",
+        "bundleID": "com.apple.mobilenotes",
         "name": "Notes",
         "url": "mobilenotes://",
         "isFirstParty": true
     },
     {
         "id": "nubank",
+        "bundleID": "com.nu.iphone",
         "name": "Nubank",
         "url": "https://nubank.com.br"
     },
     {
         "id": "olx-brasil",
+        "bundleID": "com.schibsted.Bom-Nego-cio",
         "name": "OLX Brasil",
         "url": "https://olx.com.br"
     },
     {
         "id": "otto",
+        "bundleID": "de.otto.shop",
         "name": "Otto",
         "url": "https://www.otto.de/"
     },
     {
         "id": "ms-outlook",
+        "bundleID": "com.microsoft.Office.Outlook",
         "name": "Outlook",
         "url": "ms-outlook://"
     },
     {
         "id": "paypay",
+        "bundleID": "jp.pay2.app.ios",
         "name": "PayPay",
         "url": "https://paypay.ne.jp/"
     },
     {
         "id": "apple-phone",
+        "bundleID": "com.apple.mobilephone",
         "name": "Phone",
         "url": "shortcuts://x-callback-url/run-shortcut?x-error=mobilephone://",
         "isFirstParty": true
     },
     {
         "id": "apple-photos",
+        "bundleID": "com.apple.mobileslideshow",
         "name": "Photos",
         "url": "photos-redirect://",
         "isFirstParty": true
     },
     {
         "id": "picpay",
+        "bundleID": "com.picpay.PicPay",
         "name": "PicPay",
         "url": "https://app.picpay.com"
     },
     {
         "id": "pinduoduo",
+        "bundleID": "com.xunmeng.pinduoduo",
         "name": "Pinduoduo",
         "url": "pinduoduo://"
     },
     {
         "id": "pinterest",
+        "bundleID": "pinterest",
         "name": "Pinterest",
         "url": "https://pinterest.com/"
     },
     {
         "id": "apple-podcasts",
+        "bundleID": "com.apple.podcasts",
         "name": "Podcasts",
         "url": "podcasts://",
         "isFirstParty": true
     },
     {
         "id": "poste-italiane",
+        "bundleID": "it.poste.spim",
         "name": "Poste Italiane",
         "url": "https://www.poste.it"
     },
     {
         "id": "qq",
+        "bundleID": "com.tencent.mqq",
         "name": "QQ",
         "url": "https://qm.qq.com/"
     },
     {
         "id": "radiko",
+        "bundleID": "jp.radiko.application",
         "name": "Radiko",
         "url": "https://radiko.jp/share/"
     },
     {
         "id": "raiplay",
+        "bundleID": "it.rainet.ipad.raitv",
         "name": "RaiPlay",
         "url": "https://www.raiplay.it/"
     },
     {
         "id": "rakuten",
+        "bundleID": "jp.co.rakuten.ichiba",
         "name": "Rakuten",
         "url": "https://www.rakuten.co.jp/"
     },
     {
         "id": "rappi",
+        "bundleID": "com.grability.rappi",
         "name": "Rappi",
         "url": "https://www.rappi.com.br"
     },
     {
         "id": "reddit",
+        "bundleID": "com.reddit.Reddit",
         "name": "Reddit",
         "url": "https://www.reddit.com/"
     },
     {
         "id": "apple-reminders",
+        "bundleID": "com.apple.reminders",
         "name": "Reminders",
         "url": "x-apple-reminderkit://",
         "isFirstParty": true
     },
     {
         "id": "retty",
+        "bundleID": "retty.me",
         "name": "Retty",
         "url": "https://retty.me/"
     },
     {
         "id": "apple-safari",
+        "bundleID": "com.apple.mobilesafari",
         "name": "Safari",
         "url": "x-web-search://",
         "isFirstParty": true
     },
     {
         "id": "satispay",
+        "bundleID": "com.satispay.customer.p2p",
         "name": "Satispay",
         "url": "satispay://"
     },
     {
         "id": "apple-settings",
+        "bundleID": "com.apple.Preferences",
         "name": "Settings",
         "url": "prefs://",
         "isFirstParty": true
     },
     {
         "id": "shazam",
+        "bundleID": "com.shazam.Shazam",
         "name": "Shazam",
         "url": "shazam://"
     },
     {
         "id": "shopee-brasil",
+        "bundleID": "com.beeasy.shopee.br",
         "name": "Shopee",
         "url": "https://shopee.com.br"
     },
     {
         "id": "apple-shortcuts",
+        "bundleID": "com.apple.shortcuts",
         "name": "Shortcuts",
         "url": "shortcuts://",
         "isFirstParty": true
     },
     {
         "id": "slack",
+        "bundleID": "com.tinyspeck.chatlyio",
         "name": "Slack",
         "url": "slack://"
     },
     {
         "id": "smartnews",
+        "bundleID": "jp.gocro.SmartNews",
         "name": "SmartNews",
         "url": "https://www.smartnews.com/p/"
     },
     {
         "id": "snapchat",
+        "bundleID": "com.toyopagroup.picaboo",
         "name": "Snapchat",
         "url": "snapchat://"
     },
     {
         "id": "sncf-connect",
+        "bundleID": "com.voyages-sncf.app",
         "name": "SNCF Connect",
         "url": "https://www.sncf-connect.com"
     },
     {
         "id": "sparkasse",
+        "bundleID": "de.starfinanz.Finanzstatus",
         "name": "Sparkasse",
         "url": "https://www.sparkasse.de/_deeplink/"
     },
     {
         "id": "spotify",
+        "bundleID": "com.spotify.client",
         "name": "Spotify",
         "url": "https://open.spotify.com/home"
     },
     {
         "id": "subito",
+        "bundleID": "com.subito.subito",
         "name": "Subito",
         "url": "https://www.subito.it/"
     },
     {
         "id": "tabelog",
+        "bundleID": "com.kakaku.tabelog",
         "name": "Tabelog",
         "url": "https://tabelog.com/"
     },
     {
         "id": "taobao",
+        "bundleID": "com.taobao.taobao4iphone",
         "name": "Taobao",
         "url": "taobao://"
     },
     {
         "id": "taxfix",
+        "bundleID": "de.taxfix.Taxfix",
         "name": "Taxfix",
         "url": "https://app.taxfix.de/dlink/"
     },
     {
         "id": "telegram",
+        "bundleID": "ph.telegra.Telegraph",
         "name": "Telegram",
         "url": "tg://"
     },
     {
         "id": "thalia",
+        "bundleID": "eu.thalia.app",
         "name": "Thalia",
         "url": "https://www.thalia.de/"
     },
     {
         "id": "tiktok",
+        "bundleID": "com.zhiliaoapp.musically",
         "name": "TikTok",
         "url": "https://www.tiktok.com/"
     },
     {
         "id": "too-good-to-go",
+        "bundleID": "com.moonsted.TGTG",
         "name": "Too Good To Go",
         "url": "https://share.toogoodtogo.com"
     },
     {
         "id": "toss",
+        "bundleID": "com.vivarepublica.cash",
         "name": "Toss",
         "url": "https://toss.im/_ul/"
     },
     {
         "id": "apple-translate",
+        "bundleID": "com.apple.Translate",
         "name": "Translate",
         "url": "shortcuts://x-callback-url/run-shortcut?x-error=translate://",
         "isFirstParty": true
     },
     {
         "id": "trip-com",
+        "bundleID": "com.ctrip.EBooking",
         "name": "Trip.com",
         "url": "https://www.trip.com/"
     },
     {
         "id": "tver",
+        "bundleID": "jp.hamitv.hamitvapp1",
         "name": "TVer",
         "url": "https://tver.jp/"
     },
     {
         "id": "tving",
+        "bundleID": "com.tving.iphone001",
         "name": "TVING",
         "url": "https://www.tving.com/contents/"
     },
     {
         "id": "uber",
+        "bundleID": "com.ubercab.UberClient",
         "name": "Uber",
         "url": "https://m.uber.com/looking"
     },
     {
         "id": "uber-eats",
+        "bundleID": "com.ubercab.UberEats",
         "name": "Uber Eats",
         "url": "https://www.ubereats.com/brand/"
     },
     {
         "id": "uniqlo",
+        "bundleID": "com.uniqlo.catalogue",
         "name": "UNIQLO",
         "url": "https://www.uniqlo.com/jp/ja/"
     },
     {
         "id": "venmo",
+        "bundleID": "net.kortina.labs.Venmo",
         "name": "Venmo",
         "url": "https://venmo.com/u/"
     },
     {
         "id": "vinted",
+        "bundleID": "lt.manodrabuziai.fr",
         "name": "Vinted",
         "url": "https://www.vinted.fr"
     },
     {
         "id": "apple-voice-memos",
+        "bundleID": "com.apple.VoiceMemos",
         "name": "Voice Memos",
         "url": "shortcuts://x-callback-url/run-shortcut?x-error=voicememos://",
         "isFirstParty": true
     },
     {
         "id": "apple-wallet",
+        "bundleID": "com.apple.Passbook",
         "name": "Wallet",
         "url": "shoebox://",
         "isFirstParty": true
     },
     {
         "id": "apple-watch",
+        "bundleID": "com.apple.Bridge",
         "name": "Watch",
         "url": "itms-watchs://",
         "isFirstParty": true
     },
     {
         "id": "watcha",
+        "bundleID": "com.frograms.WATCHAPLAY",
         "name": "Watcha",
         "url": "https://watcha.com/contents/"
     },
     {
         "id": "waze",
+        "bundleID": "com.waze.iphone",
         "name": "Waze",
         "url": "https://waze.com/ul"
     },
     {
         "id": "apple-weather",
+        "bundleID": "com.apple.weather",
         "name": "Weather",
         "url": "weather://",
         "isFirstParty": true
     },
     {
         "id": "wechat",
+        "bundleID": "com.tencent.xin",
         "name": "WeChat",
         "url": "weixin://"
     },
     {
         "id": "whatsapp",
+        "bundleID": "net.whatsapp.WhatsApp",
         "name": "WhatsApp",
         "url": "https://www.whatsapp.com/privacy/disclosure"
     },
     {
         "id": "x",
+        "bundleID": "com.atebits.Tweetie2",
         "name": "X",
         "url": "https://x.com"
     },
     {
         "id": "xiaohongshu",
+        "bundleID": "com.xingin.discover",
         "name": "Xiaohongshu",
         "url": "https://www.xiaohongshu.com/discovery/item/"
     },
     {
         "id": "yahoo-japan",
+        "bundleID": "jp.co.yahoo.ipn.appli",
         "name": "Yahoo! JAPAN",
         "url": "yjlogin://"
     },
     {
         "id": "yogiyo",
+        "bundleID": "com.yogiyo.yogiyoapp",
         "name": "Yogiyo",
         "url": "https://www.yogiyo.co.kr/mobile/"
     },
     {
         "id": "youku",
+        "bundleID": "com.youku.YouKu",
         "name": "Youku",
         "url": "https://www.youku.com/"
     },
     {
         "id": "youtube",
+        "bundleID": "com.google.ios.youtube",
         "name": "YouTube",
         "url": "https://www.youtube.com/"
     },
     {
         "id": "yuka",
+        "bundleID": "yuca.scanner",
         "name": "Yuka",
         "url": "yuka://"
     },
     {
         "id": "zalando",
+        "bundleID": "de.zalando.iphone",
         "name": "Zalando",
         "url": "zalando://"
     },
     {
         "id": "zdf-mediathek",
+        "bundleID": "de.zdf.mediathek.universal",
         "name": "ZDF Mediathek",
         "url": "https://www.zdf.de/"
     },
     {
         "id": "zoom",
+        "bundleID": "us.zoom.videomeetings",
         "name": "Zoom",
         "url": "https://zoom.us/router?page=phone"
     }
