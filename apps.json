@@ -153,6 +153,12 @@
         "isFirstParty": true
     },
     {
+        "id": "canary-mail",
+        "bundleID": "Mailroom.Canary-iOS",
+        "name": "Canary Mail",
+        "url": "canary://"
+    },
+    {
         "id": "candy-crush",
         "bundleID": "com.midasplayer.apps.candycrushsaga",
         "name": "Candy Crush Saga",
@@ -964,6 +970,12 @@
         "bundleID": "com.tving.iphone001",
         "name": "TVING",
         "url": "https://www.tving.com/contents/"
+    },
+    {
+        "id": "authy",
+        "bundleID": "com.authy",
+        "name": "Twilio Authy",
+        "url": "authy://"
     },
     {
         "id": "uber",
